@@ -4,6 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOC-BUG&layout=compact)
 
+
+
+<img align="right" alt="GIF" src="./img/1.gif" style="zoom:50%;"/>
+
 ### :smirk_cat: About  Me
 
 :computer: **Language:** ``C/C++`` 、``python``、``Kotlin``、``Html5``、``JavaScript``
@@ -14,5 +18,3 @@
 <br>
 :balloon: **Social Software:** ``QQ：1539777243``、``lofter：WOC_BUG``、``微博：BUG之父``
 <br>
-
-<img src="./img/1.gif" style="zoom:50%;" />
