@@ -7,10 +7,10 @@
 ### :smirk_cat: About  Me
 
 :computer: **Language:** ``C/C++`` 、``python``、``Kotlin``、``Html5``、``JavaScript``
-
+<br>
 :bulb:  **Tools:** ``Visual Studio``、``VSCode``、``Android Studio``、``GitHub``
-
+<br>
 :ghost: **Hobby: ** :art: 、:video_game: 、:book:
-
+<br>
 :balloon: **Social Software:** ``QQ：1539777243``、``lofter：WOC_BUG``、``微博：BUG之父``
-
+<br>
