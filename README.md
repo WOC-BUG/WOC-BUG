@@ -2,11 +2,13 @@
 
 ![WOC-BUG's github stats](https://github-readme-stats.vercel.app/api?username=WOC-BUG&show_icons=true&theme=tokyonight)
 
+
+
+<img align="right" alt="GIF" src="./img/1.gif" style="zoom:50%;"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOC-BUG&layout=compact)
 
 
-
-<img align="right" alt="GIF" src="./img/1.gif" style="zoom:30%;"/>
 
 ### :smirk_cat: About  Me
 
