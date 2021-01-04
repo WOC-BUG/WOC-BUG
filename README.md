@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="GIF" src="./img/1.gif" style="zoom:50%;"/>
+<img align="right" alt="GIF" src="./img/1.gif" style="zoom:30%;"/>
 
 ### :smirk_cat: About  Me
 
