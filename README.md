@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="GIF" src="./img/1.gif" style="zoom:50%;"/>
+<img align="right" alt="GIF" src="./img/1.gif" width = "300"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOC-BUG&layout=compact)
 
