@@ -10,7 +10,9 @@
 <br>
 :bulb:  **Tools:** ``Visual Studio``、``VSCode``、``Android Studio``、``GitHub``
 <br>
-:ghost: **Hobby: ** :art: 、:video_game: 、:book:
+:ghost: **Hobby:** :art: 、:video_game: 、:book:
 <br>
 :balloon: **Social Software:** ``QQ：1539777243``、``lofter：WOC_BUG``、``微博：BUG之父``
 <br>
+
+<img src="./img/1.gif" style="zoom:50%;" />
