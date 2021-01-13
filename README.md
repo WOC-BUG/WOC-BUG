@@ -30,6 +30,5 @@
 
 **近期项目**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=AndroidApp)](https://github.com/WOC-BUG/AndroidApp)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze)](https://github.com/WOC-BUG/Escape-From-The-Maze)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=AndroidApp">](https://github.com/WOC-BUG/AndroidApp)
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze">](https://github.com/WOC-BUG/Escape-From-The-Maze)
