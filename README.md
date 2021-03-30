@@ -2,11 +2,13 @@
 
 ![WOC-BUG's github stats](https://github-readme-stats.vercel.app/api?username=WOC-BUG&show_icons=true&theme=tokyonight)
 
+
+
 <img align="right" alt="GIF" src="./img/1.gif" width = "300"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOC-BUG&layout=compact)
 
-<img align="right" alt="GIF" src="./img/code.gif" width = "300"/>
+
 
 ---
 
@@ -30,3 +32,7 @@
 **近期项目**
 
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=AndroidApp">](https://github.com/WOC-BUG/AndroidApp)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze">](https://github.com/WOC-BUG/Escape-From-The-Maze)
+
+
+
+<img alt="GIF" src="./img/code.gif" width = "300"/>
