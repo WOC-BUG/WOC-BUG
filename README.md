@@ -14,7 +14,7 @@
 
 ### :smirk_cat: About  Me
 
-:computer: **Language:** ``C/C++`` 、``python``、``Kotlin``、``Html5``、``JavaScript``
+:computer: **Language:** ``C/C++`` 、``TypeScript``、``Kotlin``、``Html5``、``JavaScript``、``Java``、``Python``
 <br><br>
 :bulb:  **Tools:** ![](https://img.shields.io/badge/Visual%20Studio-2019-purple) ![](https://img.shields.io/badge/Visual%20Studio-Code-007acc) ![](https://img.shields.io/badge/Android%20Studio-4.0.1-brightgren)
 <br><br>
