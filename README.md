@@ -27,11 +27,13 @@
 
 **正在做的事**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=5G-Knowledge-Graph-and-Fusion-Media-Visualization)](https://github.com/WOC-BUG/5G-Knowledge-Graph-and-Fusion-Media-Visualization)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Cocos2dx-Games)](https://github.com/WOC-BUG/Cocos2dx-Games)
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Forest-Witch)](https://github.com/WOC-BUG/Forest-Witch)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Cocos2dx-Games)](https://github.com/WOC-BUG/Cocos2dx-Games)
+
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=BusLinesApp">](https://github.com/WOC-BUG/BusLinesApp)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Constellation-App">](https://github.com/WOC-BUG/Constellation-App)   
 
 **近期项目**
 
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=AndroidApp">](https://github.com/WOC-BUG/AndroidApp)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze">](https://github.com/WOC-BUG/Escape-From-The-Maze)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=5G-Knowledge-Graph-and-Fusion-Media-Visualization)](https://github.com/WOC-BUG/5G-Knowledge-Graph-and-Fusion-Media-Visualization)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze">](https://github.com/WOC-BUG/Escape-From-The-Maze)
 
 
 
