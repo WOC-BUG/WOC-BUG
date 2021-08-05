@@ -16,24 +16,20 @@
 
 :computer: **Language:** ``C/C++`` 、``TypeScript``、``Kotlin``、``Html5``、``JavaScript``、``Java``、``Python``
 <br><br>
-:bulb:  **Tools:** ![](https://img.shields.io/badge/Cocos%20Creator-2.4.5-black) ![](https://img.shields.io/badge/Visual%20Studio-2019-purple) ![](https://img.shields.io/badge/Visual%20Studio-Code-007acc) ![](https://img.shields.io/badge/Android%20Studio-4.0.1-brightgren)
-<br><br>
-:ghost: **Hobby:** :art: 、:video_game: 、:book:
-<br><br>
-:balloon: **Social Software:** [![](https://img.shields.io/badge/dynamic/json?color=000000&logo=github&label=GitHub&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWOC-BUG)](https://github.com/WOC-BUG) [![](https://img.shields.io/badge/dynamic/json?logo=bilibili&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D23005221)](https://space.bilibili.com/23005221)  [![](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&color=E6162D&label=微博&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D7075760489)](https://weibo.com/u/7075760489) ![](https://img.shields.io/badge/QQ-1539777243-9cf) ![](https://img.shields.io/badge/LOFTER-WOC__BUG-green)
+:bulb:  **Tools:** ![](https://img.shields.io/badge/Visual%20Studio-2019-purple)
 <br>
 
 ---
 
 **正在做的事**
 
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Forest-Witch)](https://github.com/WOC-BUG/Forest-Witch)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Cocos2dx-Games)](https://github.com/WOC-BUG/Cocos2dx-Games)
-
-[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=BusLinesApp">](https://github.com/WOC-BUG/BusLinesApp)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Constellation-App">](https://github.com/WOC-BUG/Constellation-App)   
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Game-Engines-Study-Notes)](https://github.com/WOC-BUG/Game-Engines-Study-Notes)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Forest-Witch)](https://github.com/WOC-BUG/Forest-Witch)  
 
 **近期项目**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=5G-Knowledge-Graph-and-Fusion-Media-Visualization)](https://github.com/WOC-BUG/5G-Knowledge-Graph-and-Fusion-Media-Visualization)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze">](https://github.com/WOC-BUG/Escape-From-The-Maze)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=5G-Knowledge-Graph-and-Fusion-Media-Visualization)](https://github.com/WOC-BUG/5G-Knowledge-Graph-and-Fusion-Media-Visualization)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Escape-From-The-Maze">](https://github.com/WOC-BUG/Escape-From-The-Maze) 
+
+[<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=BusLinesApp">](https://github.com/WOC-BUG/BusLinesApp)   [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=WOC-BUG&repo=Constellation-App">](https://github.com/WOC-BUG/Constellation-App)   
 
 
 
