@@ -16,7 +16,11 @@
 
 :computer: **Language:** ``C/C++`` 、``TypeScript``、``Kotlin``、``Html5``、``JavaScript``、``Java``、``Python``
 <br><br>
-:bulb:  **Tools:** ![](https://img.shields.io/badge/Visual%20Studio-2019-purple)
+:bulb:  **Tools:** ![](https://img.shields.io/badge/Cocos%20Creator-2.4.5-black) ![](https://img.shields.io/badge/Visual%20Studio-2019-purple) ![](https://img.shields.io/badge/Visual%20Studio-Code-007acc) ![](https://img.shields.io/badge/Android%20Studio-4.0.1-brightgren)
+<br><br>
+:ghost: **Hobby:** :art: 、:video_game: 、:book:
+<br><br>
+:balloon: **Social Software:** [![](https://img.shields.io/badge/dynamic/json?color=000000&logo=github&label=GitHub&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWOC-BUG)](https://github.com/WOC-BUG) [![](https://img.shields.io/badge/dynamic/json?logo=bilibili&color=ff69b4&label=bilibili&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D23005221)](https://space.bilibili.com/23005221)  [![](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&color=E6162D&label=微博&query=%24.data.totalSubs&suffix=Followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D7075760489)](https://weibo.com/u/7075760489) ![](https://img.shields.io/badge/QQ-1539777243-9cf) ![](https://img.shields.io/badge/LOFTER-WOC__BUG-green)
 <br>
 
 ---
